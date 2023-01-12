@@ -8,3 +8,4 @@ env.read_env()
 
 BOT_TOKEN = env.str("BOT_TOKEN")  # Bot toekn
 ADMINS = env.list("ADMINS")  # adminlar ro'yxati
+PROVIDER_TOKEN = env.str("PROVIDER_TOKEN") #Click Provider token
